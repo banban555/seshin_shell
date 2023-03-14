@@ -1,5 +1,6 @@
-# seshin_shell
+#개요
 linux bash shell 일부 기능과 동일하게 작동하는 shell 구현 프로젝트
+<br>
 <br>
 
 # 구현 사항
@@ -17,6 +18,7 @@ linux bash shell 일부 기능과 동일하게 작동하는 shell 구현 프로�
     - `exit`
 - 이스케이프 문자 (`\`)
 - history
+<br>
 <br>
 
 # 실행방법
