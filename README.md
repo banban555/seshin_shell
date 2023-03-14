@@ -1,4 +1,4 @@
-#개요
+# 개요
 linux bash shell 일부 기능과 동일하게 작동하는 shell 구현 프로젝트
 <br>
 <br>
