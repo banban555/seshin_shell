@@ -26,6 +26,6 @@ linux bash shell 일부 기능과 동일하게 작동하는 shell 구현 프로�
 - `./minishell`
 <br>
 
-####readline이 설치되지 않은 경우
+#### readline이 설치되지 않은 경우
 - `brew install readline` 입력하여 readline을 설치해야 함
 <br>
