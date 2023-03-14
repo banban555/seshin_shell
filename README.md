@@ -23,8 +23,8 @@ linux bash shell 일부 기능과 동일하게 작동하는 shell 구현 프로�
 # 실행방법
 터미널에 아래 순서대로 명령어를 입력하세요
 - `git clone https://github.com/banban555/seshin_shell.git`
-- make
-- ./minishell
+- `make`
+- `./minishell`
 <br>
 
 ####readline이 설치되지 않은 경우
